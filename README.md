@@ -20,8 +20,10 @@ The workbook visualizes key KPIs and enables easy filtering, making it suitable 
 
 ## 🖼️ Dashboard Screenshots  
 
-![Dashboard Screenshot 1](.....)
-
+Dashboard Preview 1 <img width="1292" height="670" alt="Screenshot 2025-11-22 001023" src="https://github.com/user-attachments/assets/bd17faf0-574a-44f8-8621-8cfaddae187b" />
+Dashboard Preview 2 <img width="1288" height="676" alt="Screenshot 2025-11-22 001048" src="https://github.com/user-attachments/assets/697cbda9-4625-4e34-b42e-f0ffd4c24415" />
+Dashboard Preview 3 <img width="1290" height="676" alt="Screenshot 2025-11-22 001112" src="https://github.com/user-attachments/assets/fb9ba0d8-d41e-4abf-beac-120fbf4180fb" />
+Dashboard Preview 4 <img width="1287" height="679" alt="Screenshot 2025-11-22 001131" src="https://github.com/user-attachments/assets/3ad24cd5-e994-42dd-ad52-8d2f5ea3140a" />
 
 
 ---
@@ -29,7 +31,7 @@ The workbook visualizes key KPIs and enables easy filtering, making it suitable 
 
 ## 📽️ Preview  
 
-
+https://github.com/user-attachments/assets/ad5c4d29-4a45-4676-b280-cb1153bd8ace
 
 ---
 
