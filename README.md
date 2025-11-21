@@ -1,9 +1,10 @@
 # Sales & Profit Analysis Dashboard
 
 This repository contains an Excel-based Business Intelligence project analysing sales and profit performance across states, categories, sub-categories, customers, and products. 
-The analysis includes raw data, pivot tables, and an interactive dashboard.  
-This project presents a complete Excel-based sales analytics solution built using raw transactional data, pivot tables, and an interactive dashboard.  
-The goal of this analysis is to understand sales trends, profit distribution, product and category performance, customer profitability, and regional business insights.  
+The analysis includes raw data, pivot tables, and an interactive dashboard.
+
+This project presents a complete Excel-based sales analytics solution built using raw transactional data, pivot tables, and an interactive dashboard. The goal of this analysis is to understand sales trends, profit distribution, product and category performance, customer profitability, and regional business insights.
+
 The workbook visualizes key KPIs and enables easy filtering, making it suitable for business reporting, presentations, and portfolio demonstration.
 
 
