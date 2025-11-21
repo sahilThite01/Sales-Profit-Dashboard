@@ -13,6 +13,21 @@ This repository contains an Excel-based Business Intelligence project analyzing 
 
 ---
 
+## 🖼️ Dashboard Screenshots  
+
+![Dashboard Screenshot 1](.....)
+
+
+
+---
+
+
+## 📽️ Preview  
+
+
+
+---
+
 ## Dashboard Features
 
 ### 1. Sales Overview
